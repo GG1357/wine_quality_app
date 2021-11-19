@@ -1,0 +1,6 @@
+myenv
+*.pyc
+.DS_Store
+.env
+.ipynb
+.csv
